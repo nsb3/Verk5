@@ -20,7 +20,7 @@ html {
 h1,
 h2 {
     line-height: 22px;
-    font-size: 1.375em;
+    font-size: 22px;
     padding: 0.5em;
 }
 
@@ -54,7 +54,7 @@ main {
 }
 
 .card>* {
-    padding: 0.5em;
+    padding: 8px;
 }
 
 .card__content {
@@ -64,10 +64,6 @@ main {
 .card__content__p {
     overflow: scroll;
     margin-right: 3px
-}
-
-p {
-    padding: 0.5em;
 }
 
 ul {
